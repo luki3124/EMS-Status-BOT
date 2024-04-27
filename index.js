@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🧠Psychology and Consulting Services🧠","🧶Bot Stworzony przez luki.o🧶", "💎Jarredzik Na medyku Synku💎"];
+const statusMessages = ["🚨🚑Menager Firmy EMS🚑🚨","📌Bot Medyczny CAT CITY📌", "🎈Bot Stworzony przez luki.o🎈"];
 
 
 let currentIndex = 0;
